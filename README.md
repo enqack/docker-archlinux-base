@@ -2,8 +2,8 @@
 
 Another custom Arch Linux base container
 
-* Github [enqack/docker-archlinux-base](https://github.com/enqack/archlinux-tiny)
-* Docker hub [enqack/archlinux-base](https://hub.docker.com/r/enqack/archlinux-tiny)
+* Github: [enqack/docker-archlinux-base](https://github.com/enqack/docker-archlinux-base)
+* Docker hub: [enqack/archlinux-base](https://hub.docker.com/r/enqack/archlinux-base)
 
 Derivative of the [yantis/archlinux-tiny](https://hub.docker.com/r/yantis/archlinux-tiny) container.
 
