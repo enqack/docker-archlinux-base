@@ -7,7 +7,8 @@ Another custom Arch Linux base container
 
 Derivative of the [yantis/archlinux-tiny](https://hub.docker.com/r/yantis/archlinux-tiny) container.
 
-## Features 
+## Features
+
 * Arch Linux 64 bit core, extra, community repos
 * Arch Linux 32 bit multilib repo
 * [Arch Linux CN](https://github.com/archlinuxcn) repo 
@@ -16,7 +17,7 @@ Derivative of the [yantis/archlinux-tiny](https://hub.docker.com/r/yantis/archli
 * cower and package-query for interacting with the AUR. 
 * compact (removal of a lot of unneeded stuff that pacman will auto re-install if needed)
 
-## packages
+## Packages
 
 * acl 2.2.52-2
 * archlinux-keyring 20150605-1
