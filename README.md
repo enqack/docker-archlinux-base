@@ -1,6 +1,11 @@
 # docker-archlinux-base
 
-Based on [yantis/archlinux-tiny](https://hub.docker.com/r/yantis/archlinux-tiny) container.
+Another custom Arch Linux base container
+
+* Github [enqack/docker-archlinux-base](https://github.com/enqack/archlinux-tiny)
+* Docker hub [enqack/archlinux-base](https://hub.docker.com/r/enqack/archlinux-tiny)
+
+Derivative of the [yantis/archlinux-tiny](https://hub.docker.com/r/yantis/archlinux-tiny) container.
 
 ## Features 
 * Arch Linux 64 bit core, extra, community repos

@@ -1,8 +1,7 @@
 #enqack/archlinux-base
-#yantis/archlinux-tiny
 
 ###########################################################
-# Dockerfile for custom Arch Linux base
+# Dockerfile for another custom Arch Linux base container
 ############################################################
 
 FROM dock0/arch
